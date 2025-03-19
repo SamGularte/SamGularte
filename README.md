@@ -1,5 +1,13 @@
 ## Samuel Garcia Gularte
 
+Hello! I'm Samuel, a 23-year-old Frontend Developer from Bagé, Rio Grande do Sul.
+
+I'm currently completing my degree in Computer Engineering and have experience building modern, responsive, and high-performance web applications. My main expertise includes React, JavaScript, and TypeScript, along with strong skills in HTML, CSS, Git, and AWS.
+
+I'm passionate about technology and always eager to tackle new challenges that push my skills further. My experience involves developing and maintaining scalable web applications, problem-solving, and collaborating effectively in team environments.
+
+Let's connect and build amazing things together! 🚀
+
 ### 🤖 Linguagens e Tecnologias
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img alt="HTML" title="HTML" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />

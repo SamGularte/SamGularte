@@ -8,7 +8,7 @@ I'm passionate about technology and always eager to tackle new challenges that p
 
 Let's connect and build amazing things together! 🚀
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img alt="HTML" title="HTML" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="CSS" title="CSS" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -26,7 +26,8 @@ Let's connect and build amazing things together! 🚀
 </div>
 <br/>
 <br/>
-### 📊 Estatísticas
+
+### 📊 Statistics
 <p>
   <img 
     align="left" 

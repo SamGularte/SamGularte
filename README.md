@@ -29,13 +29,7 @@ Let's connect and build amazing things together! 🚀
 
 ### 📊 Statistics
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SamGularte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    ![](https://github-readme-stats.vercel.app/api?username=SamGularte&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 

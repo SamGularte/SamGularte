@@ -1,8 +1,8 @@
 ## Samuel Garcia Gularte
 
-Hello! I'm Samuel, a 23-year-old Frontend Developer from Bagé, Rio Grande do Sul.
+Hello! I'm Samuel, a Fullstack Developer from Bagé, Rio Grande do Sul.
 
-I'm currently completing my degree in Computer Engineering and have experience building modern, responsive, and high-performance web applications. My main expertise includes React, JavaScript, and TypeScript, along with strong skills in HTML, CSS, Git, and AWS.
+I'm currently completing my degree in Computer Engineering and have experience building modern, responsive, and high-performance web applications. My main expertise includes React, Java, Springboot, JavaScript and TypeScript, along with strong skills in HTML, CSS, Git, and AWS.
 
 I'm passionate about technology and always eager to tackle new challenges that push my skills further. My experience involves developing and maintaining scalable web applications, problem-solving, and collaborating effectively in team environments.
 

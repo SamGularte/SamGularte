@@ -10,6 +10,8 @@ Let's connect and build amazing things together! 🚀
 
 ### 🤖 Languages and Technologies
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+    <img alt="Java" title="Java" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img alt="Spring Boot" title="Spring Boot" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img alt="HTML" title="HTML" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img alt="CSS" title="CSS" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img alt="JavaScript" title="JavaScript" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
